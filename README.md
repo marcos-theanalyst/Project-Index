@@ -5,7 +5,3 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 ## Python
 
 1. [`LA Crime Analysis`](https://github.com/marcos-theanalyst/LA-Crime-Analysis)
-
-## Power BI
-
-1. [`LA Crime Dashboard`](https://github.com/marcos-theanalyst/LA-Crime-Dashboard-PBI)
