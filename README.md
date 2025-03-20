@@ -5,3 +5,8 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 ## Python
 
 1. [`LA Crime Analysis`](https://github.com/marcos-theanalyst/LA-Crime-Analysis)
+
+
+## Tableau
+1. [`Coffee Sales Dashboard`](https://github.com/marcos-theanalyst/Coffee-Sales-Dashboard)
+2. [`Life Expectancy Dashboard`](https://github.com/marcos-theanalyst/Life-Expectancy-Dashboard)
