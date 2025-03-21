@@ -11,6 +11,7 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 2. [`Life Expectancy Dashboard`](https://github.com/marcos-theanalyst/Life-Expectancy-Dashboard)
 
 ## Power BI
+1. [`Covid Dashboard`](https://github.com/marcos-theanalyst/Covid-Dashboard)
 
 ## SQL
 
