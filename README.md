@@ -14,5 +14,6 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 1. [`Covid Dashboard`](https://github.com/marcos-theanalyst/Covid-Dashboard)
 
 ## SQL
+1. [`Northwind EDA`](https://github.com/marcos-theanalyst/Northwind-EDA/tree/main)
 
 ## Excel
