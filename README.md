@@ -12,6 +12,10 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 
 ## Power BI
 1. [`Covid Dashboard`](https://github.com/marcos-theanalyst/Covid-Dashboard)
+2. [`Internet Sales Dashboard`](https://github.com/marcos-theanalyst/Internet-Sales-Dashboard/tree/main)
 
 ## SQL
-1. [`Northwind EDA`](https://github.com/marcos-theanalyst/Northwind-EDA/tree/main)
+- MYSQL
+  - 1. [`Northwind EDA`](https://github.com/marcos-theanalyst/Northwind-EDA/tree/main)
+- MS SQL Server
+  - 1. [`Internet Sales EDA`](https://github.com/marcos-theanalyst/Internet-Sales-EDA/tree/main)
