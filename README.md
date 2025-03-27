@@ -16,6 +16,6 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 
 ## SQL
 - MYSQL
-  1. [`Northwind EDA`](https://github.com/marcos-theanalyst/Northwind-EDA/tree/main)
+  - [`Northwind EDA`](https://github.com/marcos-theanalyst/Northwind-EDA/tree/main)
 - MS SQL Server
-  1. [`Internet Sales EDA`](https://github.com/marcos-theanalyst/Internet-Sales-EDA/tree/main)
+  - [`Internet Sales EDA`](https://github.com/marcos-theanalyst/Internet-Sales-EDA/tree/main)
