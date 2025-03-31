@@ -15,7 +15,7 @@ Welcome to my Project Index! This repository serves as a central hub for all my 
 2. [`Internet Sales Dashboard`](https://github.com/marcos-theanalyst/Internet-Sales-Dashboard/tree/main)
 
 ## SQL
-- MYSQL
+- MySQL
   - [`Northwind EDA`](https://github.com/marcos-theanalyst/Northwind-EDA/tree/main)
 - MS SQL Server
   - [`Internet Sales EDA`](https://github.com/marcos-theanalyst/Internet-Sales-EDA/tree/main)
